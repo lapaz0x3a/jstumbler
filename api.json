@@ -1,0 +1,2 @@
+var codee = 249;
+console.log(codee);
